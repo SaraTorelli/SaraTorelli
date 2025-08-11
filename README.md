@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/FOCO-Backend%20%2B%20Frontend-7300AB?style=for-the-badge&labelColor=21262D" alt="Focus" />
 </div>
 
----
+<div style="width: 100%; height: 5px; background-color: #7300AB; margin: 20px 0;"></div>
 
 <h2 align="center">💫 Sobre Mim</h2>
 
