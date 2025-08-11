@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaraTorelli&color=58A6FF&style=for-the-badge&label=VISITANTES&labelColor=21262D" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SaraTorelli?label=SEGUIDORES&style=for-the-badge&color=58A6FF&labelColor=21262D&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/FOCO-Backend%20%2B%20Frontend-58A6FF?style=for-the-badge&labelColor=21262D" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=SaraTorelli&color=7300AB&style=for-the-badge&label=VISITANTES&labelColor=21262D" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SaraTorelli?label=SEGUIDORES&style=for-the-badge&color=7300AB&labelColor=21262D&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/FOCO-Backend%20%2B%20Frontend-7300AB?style=for-the-badge&labelColor=21262D" alt="Focus" />
 </div>
 
 ---
